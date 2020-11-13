@@ -30,6 +30,16 @@ function Navbar() {
             className="nav-link"
             activeClassName= "nav-link active"
           >
+            Skill
+          </NavLink>
+          <br />
+        </li>
+        <li className="flex-sm-fill text-sm-center">
+          <NavLink
+            to="/contact"
+            className="nav-link"
+            activeClassName= "nav-link active"
+          >
             Contact
           </NavLink>
         </li>
