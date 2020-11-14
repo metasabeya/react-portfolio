@@ -1,5 +1,5 @@
 # react-portfolio
- Updated portfolio featuring 6 total projects
+ Updated portfolio includes 6 total projects
 
 * It  Uses React
 
