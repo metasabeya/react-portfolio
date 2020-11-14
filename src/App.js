@@ -15,7 +15,7 @@ function App() {
     <Router>
         <Container>
           <Row>
-            <h1 className="rounded col-sm-12 col-lg-3">Jen Chen</h1>
+            <h1 className="rounded col-sm-12 col-lg-3">Metasabeya</h1>
             <Navbar/>
             {/* use switch if you want to add "*" path */}
             <Switch>
