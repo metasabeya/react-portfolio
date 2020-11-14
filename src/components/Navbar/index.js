@@ -46,7 +46,7 @@ function Navbar() {
         </li>
         <a
           className="flex-sm-fill text-sm-center nav-link resume"
-          href={require("../assets/images/Resume.png")}
+          href={require("../assets/images/resume.pdf")}
         //   onClick={() => window.open("../assets/images/jane-doe-resume.pdf")}
         //   href={Resume}
         // onClick={() => window.open(Resume)}
@@ -54,7 +54,7 @@ function Navbar() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../assets/images/Resume.png")}
+            src={require("../assets/images/resume-icon.PNG")}
             alt="resume"
             height="28"
             width="28"

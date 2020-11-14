@@ -30,10 +30,10 @@ function Portfolio() {
                 linkDeployed="https://notetaker-5123534.herokuapp.com/"
                 linkGithub="https://github.com/jenjch/noteTaker"
               />
-              
+
             </Row>
             <Row>
-            <Project
+              <Project
                 name="Burger APP"
                 imgPath={require("../components/assets/images/burgerapp.png")}
                 linkDeployed="https://boiling-caverns-74675.herokuapp.com/"

@@ -5,7 +5,7 @@ body {
 
 
 a:hover {
-  color: teal;
+  color: mediumblue;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -14,12 +14,11 @@ a:hover {
 }
 
 .nav-link {
-  color:#777777;
+  color: black;
   text-decoration: none;
 }
 
 .resume {
-  color:teal;
   position: relative;
   bottom: 0.5px;
 }
@@ -118,8 +117,6 @@ h2 {
 
 .githubBtn {
   background-color: rgb(43, 144, 226);
-  /* background-color: rgb(43, 137, 226); */
-  /* background-color: rgb(113, 43, 226); */
   color:#ffffff;
   font-size: 1em;
   border: none;
