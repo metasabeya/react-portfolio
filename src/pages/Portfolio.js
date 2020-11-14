@@ -37,7 +37,7 @@ function Portfolio() {
                 name="Burger APP"
                 imgPath={require("../components/assets/images/burgerapp.png")}
                 linkDeployed="https://boiling-caverns-74675.herokuapp.com/"
-                linkGithub="https://github.com/jenjch/Grouhttps://github.com/metasabeya/-Burger-pProject1"
+                linkGithub="https://github.com/metasabeya/-Burger-"
               />
               <Project
                 name="Code Quize"
