@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../components/container";
+import Container from "../components/Container";
 import Row from "../components/Row";
 import Technology from "../components/Technology";
 
@@ -13,44 +13,44 @@ function Skill() {
                         <Row>
                         <Technology
                             name="HTML"
-                            imgPath={require("../component/asset/images/html.png")}
+                            imgPath={require("../components/assets/images/html.jpg")}
                          />
                             <Technology 
                                 name="CSS"
-                                imgPath={require("../component/assets/images/CSS.png")}
+                                imgPath={require("../components/assets/images/css.jpg")}
                                 
                                 />
                       <Technology 
                       name="JS"
-                      imgPath={require("../component/assets/images/js.png")}
+                      imgPath={require("../components/assets/images/js.png")}
                       />
                         </Row>
                         <Row>
                         <Technology 
                             name="Node.js"
-                            imgPath={require("../component/assets/images/nodejslogo.png")}
+                            imgPath={require("../components/assets/images/nodejslogo.png")}
                         />
                          <Technology 
                             name="MYSQL"
-                            imgPath={require("../component/assets/images/nodejslogo.png")}
+                            imgPath={require("../components/assets/images/mysql.png")}
                         />
                          <Technology 
                             name="MONGODB"
-                            imgPath={require("../component/assets/images/mongo.png")}
+                            imgPath={require("../components/assets/images/mongo.png")}
                         />
                          </Row>
                          <Row>
                         <Technology
                         name="REACT"
-                        imgPath={require("../component/assets/images/reactpng.png")}
+                        imgPath={require("../components/assets/images/reactpng.png")}
                         />
                         <Technology
                         name="JQUERY"
-                        imgPath={require("../component/assets/images/jquery-logo-blue.png")}
+                        imgPath={require("../components/assets/images/jquery-logo-blue.png")}
                         />
                         <Technology
                             name="SQL"
-                            imgPath={require("../component/assets/images/sql.jpg")}
+                            imgPath={require("../components/assets/images/sql.jpg")}
                         />
                          </Row>
 

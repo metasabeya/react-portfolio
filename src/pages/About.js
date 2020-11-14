@@ -8,7 +8,7 @@ function About() {
     <Container>
       <section className="content">
         <Row>
-          <div className="col-md-12 midsection">
+          <div className="col-md-8 midsection">
             <h2>About Me</h2>
             <Row>
               <Col size="sm-12">

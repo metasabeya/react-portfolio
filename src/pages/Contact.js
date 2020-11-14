@@ -17,7 +17,7 @@ function ContactForm() {
                   type="text"
                   id="name"
                   className="form-control"
-                  placeholder="Jane Smith"
+                  placeholder="metyket"
                 />
               </div>
               <div className="form-group">
@@ -26,7 +26,7 @@ function ContactForm() {
                   type="email"
                   id="email"
                   className="form-control"
-                  placeholder="example@gmail.com"
+                  placeholder="metyket@gmail.com"
                 />
               </div>
               <div className="form-group">
@@ -34,7 +34,7 @@ function ContactForm() {
                 <textarea
                   id="message"
                   className="form-control"
-                  placeholder="Write a message for Jen..."
+                  placeholder="Write a message"
                   rows="8"
                 ></textarea>
               </div>

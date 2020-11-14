@@ -26,12 +26,13 @@ function Navbar() {
         </li>
         <li className="flex-sm-fill text-sm-center">
           <NavLink
-            to="/contact"
+            to="/skill"
             className="nav-link"
             activeClassName= "nav-link active"
           >
             Skill
           </NavLink>
+          <br />
           <br />
         </li>
         <li className="flex-sm-fill text-sm-center">
@@ -45,7 +46,7 @@ function Navbar() {
         </li>
         <a
           className="flex-sm-fill text-sm-center nav-link resume"
-          href={require("../assets/images/jane-doe-resume.pdf")}
+          href={require("../assets/images/Resume.png")}
         //   onClick={() => window.open("../assets/images/jane-doe-resume.pdf")}
         //   href={Resume}
         // onClick={() => window.open(Resume)}
@@ -53,7 +54,7 @@ function Navbar() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../assets/images/resume-color-80.png")}
+            src={require("../assets/images/Resume.png")}
             alt="resume"
             height="28"
             width="28"
@@ -62,32 +63,44 @@ function Navbar() {
         </a>
         <a
           className="flex-sm-fill text-sm-center nav-link"
-          href="https://github.com/jenjch/"
-        // onClick={() => window.open("https://github.com/jenjch/")}
+          href="https://github.com/metasabeya/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img
             src={require("../assets/images/GitHub-icon.png")}
             alt="GitHub"
-            height="25"
-            width="25"
+            height="30"
+            width="30"
             className="github"
           />
         </a>
         <a
           className="flex-sm-fill text-sm-center nav-link"
-          href="https://www.linkedin.com/"
-        // onClick={() => window.open("https://www.linkedin.com/")}
+          href="https://linkedin.com/in/metasebeya-ketsela-68138b18b"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img
-            src={require("../assets/images/LI-In-Bug.png")}
+            src={require("../assets/images/linkdin.png")}
             alt="Linkedin"
-            height="24"
+            height="30"
             width="29"
             className="linkedin"
+          />
+        </a>
+        <a
+          className="flex-sm-fill text-sm-center nav-link"
+          href="https://www.gmail.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={require("../assets/images/mail.jpg")}
+            alt="Mail"
+            height="30"
+            width="30"
+            className="Email"
           />
         </a>
     </nav>

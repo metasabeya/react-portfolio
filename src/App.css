@@ -1,5 +1,5 @@
 body {
-  background-image: url("./components/assets/images/email-pattern.png");
+  background-image: url("./components/assets/images/background.jpg");
   padding-bottom: 130px;
 }
 
@@ -90,9 +90,9 @@ h2 {
   margin: 20px;
 }
 .footer {
-  background-color: #666666;
+  background-color: deeppink;
   color: #dddddd;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid gold;
   height: 60px;
   position: fixed;
   bottom: 0;
