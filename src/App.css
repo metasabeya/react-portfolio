@@ -3,10 +3,6 @@ body {
   padding-bottom: 130px;
 }
 
-/* a:link, a:visited {
-  color:#777777;
-  text-decoration: none;
-} */
 
 a:hover {
   color: teal;
@@ -87,7 +83,7 @@ h2 {
 }
 
 .bio {
-  margin: 20px;
+  margin: 10px;
 }
 .footer {
   background-color: deeppink;
