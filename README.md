@@ -13,7 +13,7 @@
 * A `Footer` component that appears on multiple pages
 
 
-![portfolio](https://user-images.githubusercontent.com/65740871/99138682-9dd00800-25ef-11eb-9585-86c601b78006.gif)
+![portf](https://user-images.githubusercontent.com/65740871/99162290-4d24e180-26b9-11eb-8c97-5079f3a1b999.gif)
 
 
 
