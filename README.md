@@ -21,7 +21,7 @@
 
 
 
-Links: https://github.com/metasabeya/react-portfolio
+Links:https://metasabeya.github.io/react-portfolio/
  
        https://github.com/metasabeya/react-portfolio
 https://drive.google.com/file/d/1cvKX00EZVxRbusJ8imUAkrCdQEbeqjJa/view
